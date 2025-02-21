@@ -11,7 +11,7 @@
     }
   </style>
 
-<h3 style="text-align: center;">Kelurahan Jatirahayu</h3>
+<h3 style="text-align: center;">Kelurahan Jatirahayu Jaya</h3>
 
 <div class="card" style="padding: 30px; width: 40%; margin: 0 auto; margin-top: 0%;">
 
